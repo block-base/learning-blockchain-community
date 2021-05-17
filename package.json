@@ -1,0 +1,17 @@
+{
+  "name": "blockbase-training",
+  "version": "1.0.0",
+  "author": "BlockBase, Inc",
+  "license": "UNLICENSED",
+  "description": "This is BlockBase official training repository",
+  "scripts": {
+    "prepare": "husky install",
+    "format": "prettier . --ignore-path .gitignore --write"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "husky": "^6.0.0",
+    "prettier": "^2.3.0"
+  }
+}
