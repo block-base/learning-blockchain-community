@@ -2,7 +2,7 @@
 
 ### Submission
 - create branch of your own name.
-- edit submissions/<your github account name>/<issueNumber>_submission.md (ex. submissions/ksuhara/5_submission.md)
+- edit submissions/\<your github account name>/\<issueNumber>_submission.md (ex. submissions/ksuhara/5_submission.md)
 - create pull-request
   - pr title ex. "submission#5-1 Learning map basic: Ethereum Client"
   - pr comment template
